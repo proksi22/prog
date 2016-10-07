@@ -1,2 +1,2 @@
 # prog
-This is a random repositiry
+This is a random repository
